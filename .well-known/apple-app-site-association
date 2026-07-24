@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "V8SJS4Z7N5.fr.compai.app",
+        "components": [
+          {
+            "/": "/compai-legal/article/*",
+            "comment": "Ouvre une page d'article CompAI."
+          }
+        ]
+      }
+    ]
+  }
+}
